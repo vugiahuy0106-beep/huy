@@ -1,0 +1,6 @@
+{
+  "name": "Giáp Căn Tin",
+  "description": "Hệ thống quản lý căn tin & điều phối hàng đợi thông minh: Cổng đặt món khách hàng, màn hình điều phối bếp (KDS), và bảng quản trị quản lý.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
